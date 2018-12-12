@@ -1,0 +1,29 @@
+<?php 
+$lang["home"]="প্রথম পাতা";
+$lang["contact us"]="যোগাযোগ করুন";
+$lang["register"]="নিবন্ধন করুন";
+$lang["registration"]="নিবন্ধন";
+$lang["most recent books"]="সর্বশেষ সংযুক্ত বইগুলো";
+$lang["most issued books"]="সর্বোচ্চ ইস্যুকৃত বইগুলো";
+$lang["most read books"]="সর্বোচ্চ পঠিত বইগুলো";
+$lang["it is read"]="পড়া হয়েছে";
+$lang["times"]="বার";
+$lang["search book"]="বই খুজুন";
+$lang["search result"]="খুঁজে পাওয়া ফলাফল";
+$lang["pages"]="পৃষ্ঠা";
+$lang["send mail"]="ইমেইল পাঠান";
+$lang["first name"]="প্রথম অংশ";
+$lang["last name"]="শেষ অংশ";
+$lang["will be used as username"]="এটি ইউজারনেম হিসেবে ব্যবহৃত হবে";
+$lang["with country code"]="কান্ট্রি কোড সহ";
+$lang["by clicking register, you agree to the terms and conditions set out by this site"]="আপনি নিবন্ধন বাটোনে ক্লিক করছেন মানে আপনি আমাদের শর্তাবলী মেনে নিচ্ছেন";
+$lang["added"]="যুক্ত হয়েছে";
+$lang["total books"]="মোট বই";
+$lang["available books"]="বই আছে";
+$lang["copy"]="কপি";
+$lang["total issued"]="মোট ইস্যু হয়েছে";
+$lang["total read"]="মোট পড়া হয়েছে";
+$lang["all category"]="সকল শ্রেণী";
+$lang["send email"]="ইমেইল পাঠান";
+$lang["i agree"]="আমি রাজি আছি";
+?>

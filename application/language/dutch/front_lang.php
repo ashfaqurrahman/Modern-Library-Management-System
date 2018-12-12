@@ -1,0 +1,29 @@
+<?php 
+$lang["home"]="huis-";
+$lang["contact us"]="Contacteer ons";
+$lang["register"]="registreren";
+$lang["registration"]="registratie";
+$lang["most recent books"]="meest recente boeken";
+$lang["most issued books"]="meeste toegewezen boeken";
+$lang["most read books"]="meest gelezen boeken";
+$lang["it is read"]="het wordt gelezen";
+$lang["times"]="tijden";
+$lang["search book"]="search boek";
+$lang["search result"]="zoekresultaat";
+$lang["pages"]="pagina's";
+$lang["send mail"]="Verzend mail";
+$lang["first name"]="Voornaam";
+$lang["last name"]="achternaam";
+$lang["will be used as username"]="zal gebruikt worden als gebruikersnaam";
+$lang["with country code"]="met landcode";
+$lang["by clicking register, you agree to the terms and conditions set out by this site"]="door te klikken register, gaat u akkoord met de voorwaarden die door deze site ingesteld";
+$lang["added"]="toegevoegd";
+$lang["total books"]="totale boeken";
+$lang["available books"]="beschikbare boeken";
+$lang["copy"]="kopiëren";
+$lang["total issued"]="totale toegewezen";
+$lang["total read"]="totale gelezen";
+$lang["all category"]="alle categorie";
+$lang["send email"]="stuur e-mail";
+$lang["i agree"]="Ik ben het eens";
+?>

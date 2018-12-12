@@ -1,0 +1,29 @@
+<?php 
+$lang["home"]="ホーム";
+$lang["contact us"]="お問い合わせ";
+$lang["register"]="登録";
+$lang["registration"]="登録";
+$lang["most recent books"]="最も最近の本";
+$lang["most issued books"]="ほとんどの発行書籍";
+$lang["most read books"]="ほとんどは本を読みます";
+$lang["it is read"]="それが読み込まれます";
+$lang["times"]="回";
+$lang["search book"]="検索帳";
+$lang["search result"]="検索結果";
+$lang["pages"]="ページ";
+$lang["send mail"]="メールを送信";
+$lang["first name"]="ファーストネーム";
+$lang["last name"]="苗字";
+$lang["will be used as username"]="ユーザー名として使用されます";
+$lang["with country code"]="国コードと";
+$lang["by clicking register, you agree to the terms and conditions set out by this site"]="レジスタをクリックすることで、あなたは、このサイトによって設定契約条件に同意";
+$lang["added"]="追加されました";
+$lang["total books"]="総ブック";
+$lang["available books"]="利用可能なブック";
+$lang["copy"]="コピー";
+$lang["total issued"]="総割り当てられました";
+$lang["total read"]="合計読取り";
+$lang["all category"]="すべてのカテゴリー";
+$lang["send email"]="メールを送る";
+$lang["i agree"]="同意する";
+?>

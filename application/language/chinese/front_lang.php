@@ -1,0 +1,29 @@
+<?php 
+$lang["home"]="家";
+$lang["contact us"]="联系我们";
+$lang["register"]="寄存器";
+$lang["registration"]="注册";
+$lang["most recent books"]="最近的著作";
+$lang["most issued books"]="最分配书";
+$lang["most read books"]="最看书";
+$lang["it is read"]="它是只读";
+$lang["times"]="时";
+$lang["search book"]="搜索簿";
+$lang["search result"]="搜索结果";
+$lang["pages"]="网页";
+$lang["send mail"]="发送邮件";
+$lang["first name"]="名字";
+$lang["last name"]="姓";
+$lang["will be used as username"]="将用作用户名";
+$lang["with country code"]="与国家代码";
+$lang["by clicking register, you agree to the terms and conditions set out by this site"]="点击注册，你同意设置由该网站的条款和条件";
+$lang["added"]="添加";
+$lang["total books"]="总书";
+$lang["available books"]="可书";
+$lang["copy"]="复制";
+$lang["total issued"]="共分配";
+$lang["total read"]="共读";
+$lang["all category"]="所有类别";
+$lang["send email"]="发电子邮件";
+$lang["i agree"]="我同意";
+?>

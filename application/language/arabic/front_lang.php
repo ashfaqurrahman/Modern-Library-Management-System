@@ -1,0 +1,29 @@
+<?php 
+$lang["home"]="البيت";
+$lang["contact us"]="اتصل بنا";
+$lang["register"]="سجل";
+$lang["registration"]="التسجيل";
+$lang["most recent books"]="معظم الكتب الأخيرة";
+$lang["most issued books"]="أكثر الكتب المسندة";
+$lang["most read books"]="الأكثر قراءة الكتب";
+$lang["it is read"]="تم قراءتها";
+$lang["times"]="مرات";
+$lang["search book"]="كتاب البحث";
+$lang["search result"]="نتيجة البحث";
+$lang["pages"]="صفحات";
+$lang["send mail"]="إرسال البريد";
+$lang["first name"]="الاسم الاول";
+$lang["last name"]="الاسم الاخير";
+$lang["will be used as username"]="وسوف تستخدم كاسم المستخدم";
+$lang["with country code"]="مع رمز البلد";
+$lang["by clicking register, you agree to the terms and conditions set out by this site"]="بالضغط تسجيل، فإنك توافق على الشروط والشروط التي وضعتها في هذا الموقع";
+$lang["added"]="وأضاف";
+$lang["total books"]="مجموع الكتب";
+$lang["available books"]="الكتب المتاحة";
+$lang["copy"]="نسخ";
+$lang["total issued"]="مجموع المخصصات";
+$lang["total read"]="مجموع قراءة";
+$lang["all category"]="جميع الفئات";
+$lang["send email"]="إرسال البريد الإلكتروني";
+$lang["i agree"]="أنا موافق";
+?>
